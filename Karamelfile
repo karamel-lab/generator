@@ -1,0 +1,8 @@
+dependencies:
+  - recipe: generator::install
+  - recipe: generator::experiment
+    local:
+      - generator::install
+    global:
+
+
