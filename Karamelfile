@@ -4,5 +4,6 @@ dependencies:
     local:
       - generator::install
     global:
+      - hadoop::dn
 
 
